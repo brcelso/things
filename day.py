@@ -33,8 +33,8 @@ def count_days(start_date, end_date):
   """
 
   # Convert strings to datetime objects
-  start_date = datetime.strptime(start_date, "%Y-%m-%d")
-  end_date = datetime.strptime(end_date, "%Y-%m-%d")
+  start_date = datetime.strptime(start_date, "%d-%m-%Y")
+  end_date = datetime.strptime(end_date, "%d-%m-%Y")
 
   # Calculate the maximum possible day count within the date range
   max_day_count = (end_date - start_date).days + 1
@@ -50,10 +50,10 @@ def count_days(start_date, end_date):
     # Check if the day count is in the pre-calculated Fibonacci sequence
     if day_count in fibonacci_sequence:
       day_count_str = f"Day {day_count:02d}"
-      print(f"{day_count_str}: {current_date.strftime('%Y-%m-%d')}")
+      print(f"{day_count_str}: {current_date.strftime('%d-%m-%Y')}")
 
-# Example usage (assuming today's date is 2023-11-21)
-start_date = "1990-05-14"
-end_date = "2024-05-14"
+# Example usage (assuming today's date is 14-05-2024)
+start_date = "14-05-1990"
+end_date = "14-05-2024"
 
 count_days(start_date, end_date)

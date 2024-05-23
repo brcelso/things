@@ -33,8 +33,8 @@ def count_weeks(start_date, end_date):
   """
 
   # Convert strings to datetime objects
-  start_date = datetime.strptime(start_date, "%Y-%m-%d")
-  end_date = datetime.strptime(end_date, "%Y-%m-%d")
+  start_date = datetime.strptime(start_date, "%d-%m-%Y")
+  end_date = datetime.strptime(end_date, "%d-%m-%Y")
 
   # Calculate the maximum possible number of weeks within the date range (assuming 7 days per week)
   max_week_count = (end_date - start_date).days // 7 + 1
@@ -54,10 +54,10 @@ def count_weeks(start_date, end_date):
     # Check if the current week is in the pre-calculated Fibonacci sequence
     if current_week in fibonacci_sequence:
       week_count_str = f"Week {current_week:02d}"
-      print(f"{week_count_str}: {current_date.strftime('%Y-%m-%d')}")  # Print the first day of the week
+      print(f"{week_count_str}: {current_date.strftime('%d-%m-%Y')}")  # Print the first day of the week
 
-# Example usage (assuming today's date is 2023-11-21)
-start_date = "1990-05-14"
-end_date = "2024-05-14"
+# Example usage (assuming today's date is 14-05-2024)
+start_date = "14-05-1990"
+end_date = "14-05-2024"
 
 count_weeks(start_date, end_date)
