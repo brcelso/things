@@ -34,6 +34,11 @@ new machine as a server
 iso GFL worked
 
 21st day - May 28th
+ansible mapped problems
+SRA 54 - has to work equals 46
+automatos do not show the 
+serial, model and manufacturer of machine
+408 GFL Samsung machines using 64gb ssd
 
 2nd week - May 15th to May 21th
 run new playbook to 700 machines
