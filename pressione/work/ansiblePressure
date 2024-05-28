@@ -20,9 +20,10 @@
 [sub pressure]
 
 3rd week - May 22th to May 28th
+added AVGFL on script
 ansible production script worked in
 ubuntu 20.04 and 22.04
-kleber machine up but problem in auth
+kleber machine up turns server now
 new iso GFL created using new permissions
 SRA 54 problem
 organized all scripts and run
@@ -39,6 +40,8 @@ SRA 54 - has to work equals 46
 automatos do not show the 
 serial, model and manufacturer of machine
 408 GFL Samsung machines using 64gb ssd
+client Automatos only permit one access
+simultaneously
 
 2nd week - May 15th to May 21th
 run new playbook to 700 machines
