@@ -53,8 +53,8 @@ def count_months(start_date, end_date):
     month_count += 1
 
 # Example usage (assuming today's date is 14-05-2024)
-start_date = "26-05-2024"
-end_date = "30-08-2024"
+start_date = "13-07-2011"
+end_date = "31-12-2030"
 
 count_months(start_date, end_date)
 
