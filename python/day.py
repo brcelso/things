@@ -52,8 +52,8 @@ def count_days(start_date, end_date):
       print(f"{day_count_str}: {current_date.strftime('%d-%m-%Y')}")
 
 # Example usage (assuming today's date is 14-05-2024)
-start_date = "08-07-1914"
-end_date = "19-01-1942"
+start_date = "26-03-1993"
+end_date = "19-01-2045"
 
 
 count_days(start_date, end_date)
