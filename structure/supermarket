@@ -1,4 +1,4 @@
-carnes
+[carnes]
 carne vermelha
 carne moida
 bisteca
@@ -6,7 +6,7 @@ frango
 linguica
 peixe
 
-frutas
+[frutas]
 goiaba vermelha
 banana
 mamao
@@ -16,7 +16,7 @@ uva
 melancia
 maçã
 
-legumes
+[legumes]
 batata
 tomate
 cebola
@@ -25,19 +25,19 @@ cenoura
 mandioquinha
 brocolis
 
-verduras
+[verduras]
 alface
 agriao
 rucula
 
-limpeza
+[limpeza]
 amaciante
 sabao em po
 candida
 removedor
 desinfetante
 
-higiene
+[higiene]
 pasta de dente
 escova de dente
 fio dental
@@ -46,14 +46,14 @@ sabonete
 shampoo
 desodorante
 
-bebidas
+[bebidas]
 agua
 suco de caixa
 suco natural
 refrigerante
 cerveja
 
-refrigerados
+[refrigerados]
 sorvete
 danone
 polpa de suco
@@ -66,7 +66,7 @@ pate de presunto
 queijo branco
 queijo mussarela
 
-basicos
+[basicos]
 arroz
 feijao
 ovo
@@ -85,7 +85,7 @@ ervilha
 palmito
 shoyu
 
-tranqueiras
+[tranqueiras]
 bolos
 chocolate
 salgadinho
