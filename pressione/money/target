@@ -9,12 +9,14 @@ USDBRL - 5,36
 IBOVUSD - 22.564,61
 DXY - 105,00
 NASDAQ - 19000
+BARRICK - 16.15
 
 June 10th to 14th
 USDBRL - 5,35 (keep it all month)
 IBOVUSD - 25.000,00
 DXY - 114,00
 NASDAQ - 20000
+BARRICK - 15.50
 
 [divergences]
 USDBRL - June 1998 -> 1,15
@@ -27,30 +29,35 @@ USDBRL - 5,36
 IBOVUSD - 22.564
 DXY - 105,00
 NASDAQ - 19000
+BARRICK - 18.00
 
 July 2024 
 USDBRL - 5,36  
 IBOVUSD - 25.683
 DXY - 115
 NASDAQ - 26300
+BARRICK - 15.50
 
 September 2024
 USDBRL - 5,50
 IBOVUSD - 18500
 DXY - 100
 NASDAQ - 18500
+BARRICK - 11.00
 
 October 2024
 USDBRL - 5,55
 IBOVUSD - 20500
 DXY - 93
 NASDAQ - 18000
+BARRICK - 18.00
 
 January 2025
 USDBRL - 5,61
 IBOVUSD - 17500
 DXY - 95
 NASDAQ - 35500
+BARRICK - 17
 
 -----------------
 
@@ -68,6 +75,20 @@ USDBRL - 5,46 (broke 5,31) (nominal)
 IBOVUSD - 22.564,61 (January 1999 bottom)
 DXY - 105 (new dxy bottom) 
 NASDAQ - 32300 (+70%) or 19000 was the target?
+
+[greatest]
+
+June 07th 2024 = June 07th 1924
+September 03rd 2024 = September 3rd 1929 (tuesday)
+it can happen too in
+June 2024 to 
+(DOW 1929 - NASDAQ 2000)
+
+USDBRL - 8,30  
+IBOVUSD - 28657(fibo!)
+DXY - 116
+NASDAQ - 75025(fibo!)
+
 
 
 
