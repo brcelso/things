@@ -5,27 +5,9 @@ celso.sjunior@outlook.com
 juninhoo.silva@hotmail.com
 brcelso@icloud.com
 
-[gov]
-gov.br
-fgts
-
-[banks]
-btg pactual
-nubank
-itau
-santander
-c6
-avenue
-metamask
-binance
-wise
-confidence cambio
-mercado pago
-serasa
-
 [apps]
-github
-playstation store
+playstation store - keyaccess ok (gmail)
+github - 2FA and Passkey ok (outlook)
 discord
 twitch
 spotify
@@ -48,3 +30,20 @@ premiere
 porto
 scribd
 
+[gov]
+gov.br
+fgts
+
+[banks]
+btg pactual
+nubank
+itau
+santander
+c6
+avenue
+metamask
+binance
+wise
+confidence cambio
+mercado pago
+serasa
