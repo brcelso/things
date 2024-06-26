@@ -41,8 +41,8 @@ santander ok
 c6 ok
 avenue - pwd ok [gmail]
 metamask - recovery, private, pwd ok
-binance
-wise
+binance 2Fa, pwd ok [epou]
+wise - 2FA, pwd ok [gmail]
 confidence cambio - pwd ok [gmail]
 mercado pago 2FA, pwd ok [gmail]
 serasa pwd ok [gmail]
